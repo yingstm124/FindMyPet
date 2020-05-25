@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    app:cardCornerRadius="10dp">
+
+    <!-- card-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--topic-->
+        <TextView
+            android:id="@+id/topic_post"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/post_topic"
+            android:textColor="@color/colorFont"
+            android:textAppearance="@style/CustomTextbody"
+            android:textSize="20dp"
+            android:background="@color/colorPrimaryDark"
+            android:gravity="center_horizontal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!--image-->
+            <ImageView
+                android:id="@+id/picture_post"
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/bg_dog"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center_horizontal"/>
+
+            <!--detail-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center_vertical">
+
+                <!--detail row 1 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/post_title"
+                        android:textAppearance="@style/CustomTextbody"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:gravity="center_horizontal" />
+
+                    <TextView
+                        android:id="@+id/post_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textAppearance="@style/CustomTextbody"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:gravity="center_horizontal" />
+
+                </LinearLayout>
+
+                <!--detail row 2 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/post_location"
+                        android:textAppearance="@style/CustomTextbody"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:gravity="center_horizontal" />
+
+                    <TextView
+                        android:id="@+id/post_location"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textAppearance="@style/CustomTextbody"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:gravity="center_horizontal" />
+
+                </LinearLayout>
+
+                <!--detail row 3 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/post_tel"
+                        android:textAppearance="@style/CustomTextbody"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:gravity="center_horizontal" />
+
+                    <TextView
+                        android:id="@+id/post_tel"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textAppearance="@style/CustomTextbody"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:gravity="center_horizontal" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+

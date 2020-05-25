@@ -1,0 +1,359 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.findmypet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:5:5-80
+11-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:6:5-76
+12-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:7:5-67
+13-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:7:22-64
+14
+15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
+17-->[com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+18-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:5-68
+18-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:22-65
+19    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+19-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:26:5-82
+19-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:26:22-79
+20    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+20-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:26:5-110
+20-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:26:22-107
+21
+22    <application
+22-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:9:5-49:19
+23        android:allowBackup="true"
+23-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:10:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:11:9-43
+26        android:label="@string/app_name"
+26-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:12:9-41
+27        android:roundIcon="@mipmap/ic_launcher"
+27-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:13:9-48
+28        android:supportsRtl="true"
+28-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:14:9-35
+29        android:theme="@style/AppTheme" >
+29-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:15:9-40
+30        <activity android:name="com.example.findmypet.View.LoginActivity" />
+30-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:16:9-65
+30-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:16:19-53
+31        <!-- <activity android:name=".Navigation_fragment.homeFragment"></activity> -->
+32        <activity android:name="com.example.findmypet.View.AddPostActivity" />
+32-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:18:9-58
+32-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:18:19-55
+33        <activity android:name="com.example.findmypet.View.HomeActivity" />
+33-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:19:9-55
+33-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:19:19-52
+34
+35        <!-- first page -->
+36        <activity android:name="com.example.findmypet.View.IntroActivity" >
+36-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:22:9-28:20
+36-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:22:19-53
+37            <intent-filter>
+37-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:23:13-27:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:24:17-69
+38-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:24:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:26:17-77
+40-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:26:27-74
+41            </intent-filter>
+42        </activity> <!-- facebook -->
+43        <meta-data
+43-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:29:9-31:55
+44            android:name="com.facebook.sdk.ApplicationId"
+44-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:30:13-58
+45            android:value="@string/facebook_app_id" />
+45-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:31:13-52
+46
+47        <activity
+47-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:33:9-36:48
+48            android:name="com.facebook.FacebookActivity"
+48-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:34:13-57
+49            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+49-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:35:13-96
+50            android:label="@string/app_name"
+50-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:36:13-45
+51            android:theme="@style/com_facebook_activity_theme" />
+51-->[com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:32:13-63
+52        <activity
+52-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:37:9-48:20
+53            android:name="com.facebook.CustomTabActivity"
+53-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:38:13-58
+54            android:exported="true" >
+54-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:39:13-36
+55            <intent-filter>
+55-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:40:13-47:29
+56                <action android:name="android.intent.action.VIEW" />
+56-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:41:17-69
+56-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:41:25-66
+57
+58                <category android:name="android.intent.category.DEFAULT" />
+58-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:43:17-76
+58-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:43:27-73
+59                <category android:name="android.intent.category.BROWSABLE" />
+59-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:44:17-78
+59-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:44:27-75
+60
+61                <data android:scheme="@string/fb_login_protocol_scheme" />
+61-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:46:17-75
+61-->/Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:46:23-72
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->[com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:27:9-29:72
+65            android:name="com.karumi.dexter.DexterActivity"
+65-->[com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:28:13-60
+66            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+66-->[com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:29:13-69
+67        <activity android:name="com.facebook.CustomTabMainActivity" />
+67-->[com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:9-71
+67-->[com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:19-68
+68        <activity
+68-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:24:9-31:50
+69            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+69-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:25:13-85
+70            android:excludeFromRecents="true"
+70-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:26:13-46
+71            android:exported="true"
+71-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:27:13-36
+72            android:launchMode="singleTask"
+72-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:28:13-44
+73            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+73-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:29:13-102
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:30:13-72
+75
+76        <service
+76-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
+77            android:name="com.google.firebase.components.ComponentDiscoveryService"
+77-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:34:13-84
+78            android:directBootAware="true"
+78-->[com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+79            android:exported="false" >
+79-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:35:13-37
+80            <meta-data
+80-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:36:13-38:85
+81                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+81-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:37:17-109
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:38:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:32:13-34:85
+84                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+84-->[com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:33:17-109
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:34:17-82
+86            <meta-data
+86-->[com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
+87                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+87-->[com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
+89            <meta-data
+89-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
+90                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+90-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
+92            <meta-data
+92-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:32:13-34:85
+93                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+93-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:33:17-96
+94                android:value="com.google.firebase.components.ComponentRegistrar" />
+94-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:34:17-82
+95        </service>
+96        <!--
+97             FirebaseMessagingService performs security checks at runtime,
+98             but set to not exported to explicitly avoid allowing another app to call it.
+99        -->
+100        <service
+100-->[com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:28:9-34:19
+101            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+101-->[com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:29:13-82
+102            android:exported="false" >
+102-->[com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:30:13-37
+103            <intent-filter android:priority="-500" >
+103-->[com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:13-33:29
+103-->[com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:28-51
+104                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+104-->[com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:17-78
+104-->[com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:25-75
+105            </intent-filter>
+106        </service>
+107
+108        <provider
+108-->[com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+109            android:name="com.squareup.picasso.PicassoProvider"
+109-->[com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+110            android:authorities="com.example.findmypet.com.squareup.picasso"
+110-->[com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+111            android:exported="false" />
+111-->[com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+112
+113        <receiver
+113-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:37:9-44:20
+114            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+114-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:38:13-78
+115            android:exported="true"
+115-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:39:13-36
+116            android:permission="com.google.android.c2dm.permission.SEND" >
+116-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:40:13-73
+117            <intent-filter>
+117-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:41:13-43:29
+118                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+118-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:42:17-81
+118-->[com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:42:25-78
+119            </intent-filter>
+120        </receiver>
+121
+122        <activity
+122-->[com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+123            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+123-->[com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+125            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+125-->[com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+126
+127        <receiver
+127-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:29:9-33:20
+128            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+128-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:30:13-85
+129            android:enabled="true"
+129-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:31:13-35
+130            android:exported="false" >
+130-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:32:13-37
+131        </receiver>
+132        <receiver
+132-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:34:9-42:20
+133            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+133-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:35:13-100
+134            android:enabled="true"
+134-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:36:13-35
+135            android:exported="true"
+135-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:37:13-36
+136            android:permission="android.permission.INSTALL_PACKAGES" >
+136-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:38:13-69
+137            <intent-filter>
+137-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:39:13-41:29
+138                <action android:name="com.android.vending.INSTALL_REFERRER" />
+138-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:40:17-79
+138-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:40:25-76
+139            </intent-filter>
+140        </receiver>
+141
+142        <service
+142-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:44:9-47:40
+143            android:name="com.google.android.gms.measurement.AppMeasurementService"
+143-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:45:13-84
+144            android:enabled="true"
+144-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:46:13-35
+145            android:exported="false" />
+145-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:47:13-37
+146        <service
+146-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:48:9-52:72
+147            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+147-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:49:13-87
+148            android:enabled="true"
+148-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:50:13-35
+149            android:exported="false"
+149-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:51:13-37
+150            android:permission="android.permission.BIND_JOB_SERVICE" />
+150-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:52:13-69
+151
+152        <provider
+152-->[com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+153            android:name="com.google.firebase.provider.FirebaseInitProvider"
+153-->[com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+154            android:authorities="com.example.findmypet.firebaseinitprovider"
+154-->[com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+155            android:exported="false"
+155-->[com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+156            android:initOrder="100" />
+156-->[com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+157
+158        <meta-data
+158-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+159            android:name="com.google.android.gms.version"
+159-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+160            android:value="@integer/google_play_services_version" />
+160-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+161        <!--
+162         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+163         with the application context. This config is merged in with the host app's manifest,
+164         but there can only be one provider with the same authority activated at any given
+165         point; so if the end user has two or more different apps that use Facebook SDK, only the
+166         first one will be able to use the provider. To work around this problem, we use the
+167         following placeholder in the authority to identify each host application as if it was
+168         a completely different provider.
+169        -->
+170        <provider
+170-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:39:9-42:40
+171            android:name="com.facebook.internal.FacebookInitProvider"
+171-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:40:13-70
+172            android:authorities="com.example.findmypet.FacebookInitProvider"
+172-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:41:13-72
+173            android:exported="false" />
+173-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:42:13-37
+174
+175        <receiver
+175-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:44:9-50:20
+176            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+176-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:45:13-86
+177            android:exported="false" >
+177-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:46:13-37
+178            <intent-filter>
+178-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:47:13-49:29
+179                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+179-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:17-95
+179-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:25-92
+180            </intent-filter>
+181        </receiver>
+182        <receiver
+182-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:51:9-58:20
+183            android:name="com.facebook.CampaignTrackingReceiver"
+183-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:52:13-65
+184            android:exported="true"
+184-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:53:13-36
+185            android:permission="android.permission.INSTALL_PACKAGES" >
+185-->[com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:54:13-69
+186            <intent-filter>
+186-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:39:13-41:29
+187                <action android:name="com.android.vending.INSTALL_REFERRER" />
+187-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:40:17-79
+187-->[com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:40:25-76
+188            </intent-filter>
+189        </receiver>
+190
+191        <provider
+191-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+192            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+192-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+193            android:authorities="com.example.findmypet.lifecycle-process"
+193-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+194            android:exported="false"
+194-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+195            android:multiprocess="true" />
+195-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+196    </application>
+197
+198</manifest>

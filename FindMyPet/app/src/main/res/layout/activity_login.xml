@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.LoginActivity"
+    android:background="@drawable/bg_3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+
+        <Button
+            android:id="@+id/Fb_login_button"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="180dp"
+            android:background="@drawable/round_button"
+            android:drawableLeft="@drawable/ic_facebook"
+            android:elevation="70dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="-1"
+            android:shadowDy="-4"
+            android:shadowRadius="14"
+            android:text="Sign in with Facebook"
+            android:textAppearance="@style/CustomTextbody"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".View.HomeActivity"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+<!--    1 Toolbar -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:paddingLeft="10dp"
+            app:menu="@menu/toolbar_menu"
+            app:titleMarginStart="40dp"
+            app:titleTextColor="@color/colorGray"
+            app:navigationIcon="@drawable/ic_left_arrow">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/home"
+                android:textColor="@color/colorFont"
+                android:textSize="27dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/andika"
+                android:layout_margin="2dp"
+                android:layout_gravity="center"/>
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <FrameLayout
+            android:id="@+id/frag_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/view_contrainer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/white">
+
+                <com.google.android.material.tabs.TabLayout
+                    android:id="@+id/home_tab"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorPrimaryDark"
+                    app:tabTextAppearance="@style/CustomTextbody"
+                    app:tabMode="fixed"
+                    app:tabIndicatorColor="@color/colorYellow"
+                    app:tabTextColor="@color/colorFont"
+                    app:tabSelectedTextColor="@color/colorYellow">
+
+                    <com.google.android.material.tabs.TabItem
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/dog" />
+
+                    <com.google.android.material.tabs.TabItem
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/cat"/>
+
+                    <com.google.android.material.tabs.TabItem
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/other"
+                        android:outlineAmbientShadowColor="@color/colorPrimaryDark" />
+                </com.google.android.material.tabs.TabLayout>
+
+                <androidx.viewpager.widget.ViewPager
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </androidx.viewpager.widget.ViewPager>
+
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/bottom_nav"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_alignParentBottom="true"
+                app:itemTextAppearanceActive="@style/CustomTextbody"
+                app:itemBackground="@color/colorFont"
+                app:itemIconTint="@color/colorPrimaryDark"
+                app:itemTextColor="@color/colorPrimary"
+                app:itemHorizontalTranslationEnabled="true"
+                app:itemIconSize="20dp"
+                app:labelVisibilityMode="selected"
+                app:menu="@menu/nav_menu_home" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+
+
+<!--    2. tab layout (dog, cat, other)-->
+
+
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+

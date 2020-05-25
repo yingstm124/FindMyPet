@@ -1,0 +1,4 @@
+#Wed Nov 20 23:03:52 ICT 2019
+base.0=/Users/sutimar/myWork/AndroidApp/FindMyPet\!/FindMyPet/FindMyPet/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

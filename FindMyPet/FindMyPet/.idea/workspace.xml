@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1eaf920-bd25-4ec2-bb99-143d2d9a5c8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/anim/bounce.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/buttom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/buttom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/buttom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_right_arrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/intro_bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/intro_bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/slide.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations/app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/runConfigurations/app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-applinks/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-applinks/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-applinks/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-applinks/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-common/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-common/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-common/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-common/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-core/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-core/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-core/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-core/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-login/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-login/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-login/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-login/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-marketing/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-marketing/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-marketing/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-marketing/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-messenger/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-messenger/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-messenger/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-messenger/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-places/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-places/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-places/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-places/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-share/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-share/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-share/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook-share/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook/NOTICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/facebook/NOTICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationCardResult.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationCardResult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationsManager.NotificationExtender.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationsManager.NotificationExtender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationsManager.PrepareCallback.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationsManager.PrepareCallback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationsManager.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/NotificationsManager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/com/facebook/notifications/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../app/Users/dreamolight/fbsource/fbandroid/first-party/java/androidsdk/out/facebook-android-sdk-4.42.0/notifications/FBNotifications-Android/docs/javadoc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../app/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../app/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/androidTest/java/com/example/findmypet/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/androidTest/java/com/example/findmypet/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Adapter/SlideAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Adapter/SlideAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Adapter/ViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Adapter/ViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Adapter/ViewPageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Adapter/ViewPageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Fragment_/fragment_cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Fragment_/fragment_cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Fragment_/fragment_dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Fragment_/fragment_dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Fragment_/fragment_other.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Fragment_/fragment_other.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Model/PostInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Model/PostInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Model/Userlogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Model/Userlogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Navigation_fragment/listFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Navigation_fragment/listFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Navigation_fragment/postFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Navigation_fragment/postFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Navigation_fragment/profileFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/Navigation_fragment/profileFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/AddPostActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/AddPostActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/IntroActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/findmypet/View/WelcomeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/bg_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_add_post.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_add_post.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_arrow_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_arrow_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_back.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_catcolor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_catcolor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_crop_original_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_crop_original_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_dogcolor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_dogcolor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_facebook.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_facebook.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_foot_dog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_foot_dog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_heart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_heart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_home_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_left_arrow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_left_arrow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_mypost.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_mypost.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_nav_toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_nav_toolbar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_notifications_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/round_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/round_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/font/andika.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/font/andika.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_add_post.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_add_post.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/firstpage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_cat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_cat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_dog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_dog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_post.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_post.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/hometab_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/hometab_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/post_element.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/post_element.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/showdetail_dialog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/showdetail_dialog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/silde.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/nav_menu_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/menu/nav_menu_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/toolbar_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/menu/toolbar_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/test/java/com/example/findmypet/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/test/java/com/example/findmypet/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/FindMyPet.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/findmypet/database/Userlogin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Activity/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Navigation_fragment/profileFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/bg_profile.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Activity/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Activity/AddPostActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FindMyPet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindMyPet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FindMyPet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FindMyPet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindMyPet" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-11-15T04:13:35.414Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1eaf920-bd25-4ec2-bb99-143d2d9a5c8b" name="Default Changelist" comment="" />
+      <created>1573756732845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573756732845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23431295" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32909605" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.67205167" weight="0.32909605" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49919224" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32956383" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Activity/LoginActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/findmypet/database/Userlogin.java" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_profile.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Activity/AddPostActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Activity/HomeActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_post.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/findmypet/Navigation_fragment/profileFragment.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_post.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/FindMyPet.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

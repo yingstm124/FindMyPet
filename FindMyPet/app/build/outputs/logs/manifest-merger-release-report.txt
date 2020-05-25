@@ -1,0 +1,739 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/459c914713e980a1918fbb5b5644c35f/jetified-navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ffbb2ed07cfb0b61243bb2fe06cd7290/jetified-facebook-login-5.8.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/5efd8f1b9e11f353916c3908f7733f7f/jetified-facebook-share-5.8.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:21:1-37:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/350ae6e75ada395668d60c13ad23a490/firebase-core-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/af932722b8180dd37f0fac6c0151a7c2/firebase-analytics-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.firebaseui:firebase-ui-database:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ddecdeeb8bb9fea865c7a2c3afc0a26a/firebase-ui-database-6.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/bdf908ebb7c335c983453c7db4771699/jetified-firebase-ui-storage-4.3.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3fbfc390707d5cd6c573bfe792add2b1/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/b9799d70f08d6212f2bb67aeb995639d/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/968008e42ff023b08d09d11c4effc8d1/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e2478934eda1cf359b237025edfec609/circleimageview-3.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2b1bcabae6ee9c47b0643990b00d5cab/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1f88eb2be9a38f314bd7e75a915f6c52/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/19fc234860cc05089e65b1d66a680edd/play-services-measurement-base-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f59366baee5951a9bc6ccc7328172ff9/jetified-glide-4.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/663645697c923f7682d22abee1e0018e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2e03c2f92899d54dc944727484d22c64/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c2d3966f4637a5ae78c8a6ab897a8b79/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/acff7bcdcd7da8e99250712627973f8c/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-4.42.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-4.42.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:21:1-61:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/d98c89cf50bdd03f81aa09467d0c2ed3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/8b9f96df1a219288d5310a3f5ee0b475/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/518ce4dad50414f5f4436470dabb756a/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f6b0e9e64ea6c67524e0872a7fe85f3e/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1d2af3d333d4c3a45bf618d6c3d7e76d/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/be4c5dac795a59b41993a7b022ac3383/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa9ec5933c64a7f92a2e54256e9d183b/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0330067c7295b8ae2a93b976266b0d2d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/30989f83181402fab157072c421048ee/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/435b266bd6e0ed5048a5e257589b48e3/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7fc233ef99bb8b4c500b664971fcda3e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/02b68bf10ec20fa11ccb9afa9bf02988/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7e6ebd92550f66c9083ebcf4be850998/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/bc22db016844aa20c758d4921775e519/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9b3593a0cc0e7b7d849462249950ab47/firebase-ui-common-6.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/b6362d95ebb099144b9b7e3d2ca2ff19/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/dc53bd80f2cab5c0ab10b13217dd5482/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a1ff7fca937c69d0a5a696d95188aa63/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/73a73d07f73ad6f93e8d35053c9a00de/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4c91cee815f07b31b7d4dad5a5fb45f2/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2600027c5ef2a15aa6ba1f1ccd7ba17d/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/be0257405f31b1e356e15dc58d0cb3de/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2cbf8d7cb802848068f0a2d09c242a96/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ae3261c3b71628d6565a4faf029719a/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ee046e737eeea944b5f0bbf60408319/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7aa6d70dfbc2aad8de3751677ff13661/jetified-gifdecoder-4.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/dc00afe98654b60ddd616a33528e20cf/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89b91c90415f820a35378d852e8c8a88/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9951022edd0c1aa1cd274f086f532952/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a1c42ee6a43c1fec1cd0f12b759d080b/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.firebaseui:firebase-ui-database:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ddecdeeb8bb9fea865c7a2c3afc0a26a/firebase-ui-database-6.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ddecdeeb8bb9fea865c7a2c3afc0a26a/firebase-ui-database-6.1.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:9:5-49:19
+MERGED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ffbb2ed07cfb0b61243bb2fe06cd7290/jetified-facebook-login-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ffbb2ed07cfb0b61243bb2fe06cd7290/jetified-facebook-login-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/5efd8f1b9e11f353916c3908f7733f7f/jetified-facebook-share-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/5efd8f1b9e11f353916c3908f7733f7f/jetified-facebook-share-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:28:5-35:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/350ae6e75ada395668d60c13ad23a490/firebase-core-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/350ae6e75ada395668d60c13ad23a490/firebase-core-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/af932722b8180dd37f0fac6c0151a7c2/firebase-analytics-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/af932722b8180dd37f0fac6c0151a7c2/firebase-analytics-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:29:5-37:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/968008e42ff023b08d09d11c4effc8d1/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/968008e42ff023b08d09d11c4effc8d1/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e2478934eda1cf359b237025edfec609/circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e2478934eda1cf359b237025edfec609/circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1f88eb2be9a38f314bd7e75a915f6c52/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1f88eb2be9a38f314bd7e75a915f6c52/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/19fc234860cc05089e65b1d66a680edd/play-services-measurement-base-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/19fc234860cc05089e65b1d66a680edd/play-services-measurement-base-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f59366baee5951a9bc6ccc7328172ff9/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f59366baee5951a9bc6ccc7328172ff9/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-4.42.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-4.42.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-4.42.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-4.42.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:28:5-59:19
+MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:28:5-59:19
+MERGED from [androidx.core:core:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ee046e737eeea944b5f0bbf60408319/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ee046e737eeea944b5f0bbf60408319/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7aa6d70dfbc2aad8de3751677ff13661/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7aa6d70dfbc2aad8de3751677ff13661/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:13:9-48
+	android:icon
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.findmypet.View.LoginActivity
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:16:9-65
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:16:19-53
+activity#com.example.findmypet.View.AddPostActivity
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:18:9-58
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:18:19-55
+activity#com.example.findmypet.View.HomeActivity
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:19:19-52
+activity#com.example.findmypet.View.IntroActivity
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:22:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:26:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:30:13-58
+activity#com.facebook.FacebookActivity
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:33:9-36:48
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:35:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:34:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:37:9-48:20
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:34:9-67
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:34:9-67
+	android:exported
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:38:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:40:13-47:29
+action#android.intent.action.VIEW
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:43:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:44:17-78
+	android:name
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:44:27-75
+data
+ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:46:17-75
+	android:scheme
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml:46:23-72
+uses-sdk
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/459c914713e980a1918fbb5b5644c35f/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/459c914713e980a1918fbb5b5644c35f/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3df2fd68af0236fb7b1a24eeed8b503b/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7f4d18c50b1a875d7c6dee28f9e6d56e/facebook-android-sdk-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ffbb2ed07cfb0b61243bb2fe06cd7290/jetified-facebook-login-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ffbb2ed07cfb0b61243bb2fe06cd7290/jetified-facebook-login-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/5efd8f1b9e11f353916c3908f7733f7f/jetified-facebook-share-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/5efd8f1b9e11f353916c3908f7733f7f/jetified-facebook-share-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f8ccfb448ba3545203b2c9319e236e39/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c77d2d7d2a36a76ceff3be3a10064bf2/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/350ae6e75ada395668d60c13ad23a490/firebase-core-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/350ae6e75ada395668d60c13ad23a490/firebase-core-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/af932722b8180dd37f0fac6c0151a7c2/firebase-analytics-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/af932722b8180dd37f0fac6c0151a7c2/firebase-analytics-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.firebaseui:firebase-ui-database:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ddecdeeb8bb9fea865c7a2c3afc0a26a/firebase-ui-database-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/ddecdeeb8bb9fea865c7a2c3afc0a26a/firebase-ui-database-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/bdf908ebb7c335c983453c7db4771699/jetified-firebase-ui-storage-4.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/bdf908ebb7c335c983453c7db4771699/jetified-firebase-ui-storage-4.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3fbfc390707d5cd6c573bfe792add2b1/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3fbfc390707d5cd6c573bfe792add2b1/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/b9799d70f08d6212f2bb67aeb995639d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/b9799d70f08d6212f2bb67aeb995639d/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/968008e42ff023b08d09d11c4effc8d1/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/968008e42ff023b08d09d11c4effc8d1/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e2478934eda1cf359b237025edfec609/circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e2478934eda1cf359b237025edfec609/circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2b1bcabae6ee9c47b0643990b00d5cab/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2b1bcabae6ee9c47b0643990b00d5cab/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6759f075f7dacd9a34f2c4cacd81c5f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/520fa26dea95f0288ec40036950ce805/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1f88eb2be9a38f314bd7e75a915f6c52/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1f88eb2be9a38f314bd7e75a915f6c52/play-services-measurement-sdk-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/6845c69e263908bca8ab45d7c39a1b20/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4dcf95d1aa85e70d114d3e835cc89ecf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/19fc234860cc05089e65b1d66a680edd/play-services-measurement-base-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/19fc234860cc05089e65b1d66a680edd/play-services-measurement-base-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/488fbfcee7f9e82def1174180302c81d/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4ae5c806527406f77c711db15930365f/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f59366baee5951a9bc6ccc7328172ff9/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f59366baee5951a9bc6ccc7328172ff9/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/663645697c923f7682d22abee1e0018e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/663645697c923f7682d22abee1e0018e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2e03c2f92899d54dc944727484d22c64/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2e03c2f92899d54dc944727484d22c64/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c2d3966f4637a5ae78c8a6ab897a8b79/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c2d3966f4637a5ae78c8a6ab897a8b79/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/77f38ede50d86bb3bde02e7424569968/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2215b7515dd4dbb7a4b19b0c72864742/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/acff7bcdcd7da8e99250712627973f8c/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/acff7bcdcd7da8e99250712627973f8c/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-4.42.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/364cd3ae76e4704c70dc36d5f3bde1bf/facebook-places-4.42.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/59c88afdff5e36a87abdef50696f9590/facebook-applinks-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-4.42.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/e4e877097d3ee433bcca0c680a407e01/facebook-messenger-4.42.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a2812e63738b1c43d88b94e2e3e83098/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f73554407891e5f42b5a27997e9f0ce3/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/d98c89cf50bdd03f81aa09467d0c2ed3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/d98c89cf50bdd03f81aa09467d0c2ed3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/8b9f96df1a219288d5310a3f5ee0b475/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/8b9f96df1a219288d5310a3f5ee0b475/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/518ce4dad50414f5f4436470dabb756a/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/518ce4dad50414f5f4436470dabb756a/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f6b0e9e64ea6c67524e0872a7fe85f3e/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f6b0e9e64ea6c67524e0872a7fe85f3e/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1d2af3d333d4c3a45bf618d6c3d7e76d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1d2af3d333d4c3a45bf618d6c3d7e76d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/be4c5dac795a59b41993a7b022ac3383/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/be4c5dac795a59b41993a7b022ac3383/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa9ec5933c64a7f92a2e54256e9d183b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa9ec5933c64a7f92a2e54256e9d183b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0330067c7295b8ae2a93b976266b0d2d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0330067c7295b8ae2a93b976266b0d2d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/30989f83181402fab157072c421048ee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/30989f83181402fab157072c421048ee/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/435b266bd6e0ed5048a5e257589b48e3/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/435b266bd6e0ed5048a5e257589b48e3/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7fc233ef99bb8b4c500b664971fcda3e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7fc233ef99bb8b4c500b664971fcda3e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/02b68bf10ec20fa11ccb9afa9bf02988/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/02b68bf10ec20fa11ccb9afa9bf02988/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/56b6cdfbd80af409835a31a4470c49f0/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7e6ebd92550f66c9083ebcf4be850998/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7e6ebd92550f66c9083ebcf4be850998/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/bc22db016844aa20c758d4921775e519/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/bc22db016844aa20c758d4921775e519/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9b3593a0cc0e7b7d849462249950ab47/firebase-ui-common-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:6.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9b3593a0cc0e7b7d849462249950ab47/firebase-ui-common-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/b6362d95ebb099144b9b7e3d2ca2ff19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/b6362d95ebb099144b9b7e3d2ca2ff19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/dc53bd80f2cab5c0ab10b13217dd5482/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/dc53bd80f2cab5c0ab10b13217dd5482/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a1ff7fca937c69d0a5a696d95188aa63/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a1ff7fca937c69d0a5a696d95188aa63/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/73a73d07f73ad6f93e8d35053c9a00de/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/73a73d07f73ad6f93e8d35053c9a00de/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4c91cee815f07b31b7d4dad5a5fb45f2/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4c91cee815f07b31b7d4dad5a5fb45f2/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2600027c5ef2a15aa6ba1f1ccd7ba17d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2600027c5ef2a15aa6ba1f1ccd7ba17d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/be0257405f31b1e356e15dc58d0cb3de/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/be0257405f31b1e356e15dc58d0cb3de/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2cbf8d7cb802848068f0a2d09c242a96/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2cbf8d7cb802848068f0a2d09c242a96/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ae3261c3b71628d6565a4faf029719a/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ae3261c3b71628d6565a4faf029719a/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ee046e737eeea944b5f0bbf60408319/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1ee046e737eeea944b5f0bbf60408319/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7aa6d70dfbc2aad8de3751677ff13661/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/7aa6d70dfbc2aad8de3751677ff13661/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/dc00afe98654b60ddd616a33528e20cf/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/dc00afe98654b60ddd616a33528e20cf/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89b91c90415f820a35378d852e8c8a88/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89b91c90415f820a35378d852e8c8a88/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9951022edd0c1aa1cd274f086f532952/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9951022edd0c1aa1cd274f086f532952/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a1c42ee6a43c1fec1cd0f12b759d080b/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/a1c42ee6a43c1fec1cd0f12b759d080b/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sutimar/myWork/AndroidApp/FindMyPet!/FindMyPet/FindMyPet/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/280ad67f33471b038f45939e1ef9ab02/jetified-dexter-5.0.0/AndroidManifest.xml:28:13-60
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/89f77a1aa6207b0523edf6ca5ddd0d6a/jetified-facebook-common-5.8.0/AndroidManifest.xml:33:19-68
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/4bf5ad23fb8b48603baac97e97e245fe/firebase-auth-19.1.0/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/463da60977420e86b3b59aa784a805a0/firebase-database-19.2.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1db2d38b309a85c11f57219f5bbd1ccf/firebase-storage-19.1.0/AndroidManifest.xml:34:17-107
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/0db06146a3844f43a8cca045befa3b8b/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:25-75
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/1c13fe0dc8bb9b98601ff8582b88d225/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c048ad61ba6e19ee428d5f6f4cd2ed59/play-services-measurement-sdk-api-17.2.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/3e3cdd4175eb3827483caa9c75f911c9/play-services-measurement-api-17.2.1/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/aa4ebb7d1bb0dd10b284b199d14a2e0d/firebase-iid-20.0.0/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/c6ed24259e187418524151309c91ad64/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/9ff107986b8be7af259cac8c087bc219/play-services-measurement-impl-17.2.1/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/f850f032f32e5a254783332061c80ee1/play-services-measurement-17.2.1/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/61c47ccf880e44b6c829a8c9a48ba20d/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/2631cec0e03a4ce8bee2f2947287b429/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:48:25-92
+receiver#com.facebook.CampaignTrackingReceiver
+ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.8.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/733c9dd7e561243f108372a41300cbd5/jetified-facebook-core-5.8.0/AndroidManifest.xml:52:13-65
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/sutimar/.gradle/caches/transforms-2/files-2.1/35111811781ca491abca62b7d00445bc/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
